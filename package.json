@@ -9,7 +9,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all"
+  },
   "dependencies": {
     "tailwindcss": "^1.9.6"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
   }
 }
